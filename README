@@ -1,0 +1,33 @@
+Copyright (c) 2011 Zhu Jinliang
+
+Overview:
+----------
+It is a list, which can be used to store any type of data.
+
+How to use:
+---------
+Only need to include the LinkList.h and LinkList.c to your project.
+
+Example:
+--------
+Do as this:
+cd ListLib
+make     #compile the test.c,then will creat "test" which is an executable file. 
+
+Then there will be an executable file exists. Now, you can run it by clicking 
+"./test" into the terminal.
+
+
+
+Note:
+-------
+Since the author's ability is limited, the software may exist many bugs that I
+didn't have found and solve them. Please write them in a file, and send to me 
+if possible. I'll appreciate your work very much!
+
+Contact:
+---------
+If you want to make contact with me, mail me at this:
+zhujinlianghust#gmail.com
+
+-Zhu Jinliang, Nov 2011
